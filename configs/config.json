@@ -1,0 +1,13 @@
+{
+  "dag_id":"task_6_snowflake",
+  "email": ["pavel_yanochkin@mail.ru"],
+  "retries": 1,
+  "retry_delay": 1,
+  "interval": 1,
+  "start_year": 2022,
+  "start_month": 7,
+  "start_day": 11,
+  "description": "task 6. ELT - Airflow - Snowflake",
+  "tags": ["Task_6, ELT, Snowflake"],
+  "data": "/home/pavel/PycharmProjects/Snowflake_task/data/new.csv"
+}
